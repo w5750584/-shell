@@ -292,6 +292,6 @@ help(){
 	echo " 参数1 参数2 参数3..."
 	echo "		service_restart	重新启动服务"
 	echo "		mvn		编译项目"
-	echo "		check_url	检测地址url请求内容中是否包含变量(如:check_url http://www.2bulu.com "户外助手")"
+	echo "		check_url	检测地址url请求内容中是否包含变量(如:check_url http://www.xxx.com "xxx")"
 	echo "		help		查看帮助"
 }
